@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oscar Ceballos Cano</h1>
 <h3 align="center">I’m a passionate student and graphic designer with a special love for web development. I enjoy blending the visual creativity of graphic design with the functionality and user experience in the digital realm. Always on the lookout for new ways to express ideas through design and programming.🚀✨</h3>
+<br>
 
 - 🔭 I’m currently working on **Tramas Solucions Grafiques**
 
